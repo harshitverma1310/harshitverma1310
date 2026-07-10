@@ -47,42 +47,6 @@ I am passionate about Data Science, Software Development, and Artificial Intelli
 
 ---
 
-## 🧠 Currently Learning
-
-- Data Structures & Algorithms (DSA)
-- Python
-- Django
-- Data Science
-- Machine Learning
-- Backend Development
-- Problem Solving
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Become a Data Scientist
-- 💻 Build Real-World Software Projects
-- 📚 Master DSA using C++
-- 🌐 Develop Full Stack Applications
-- 🤖 Learn Machine Learning & AI
-
----
-
-# 📈 GitHub Stats
-
-<!-- Uncomment after creating your GitHub account repositories -->
-
-<!--
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
--->
-
----
-
 # 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit1310/)
@@ -97,12 +61,5 @@ I am passionate about Data Science, Software Development, and Artificial Intelli
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
 
----
 
-## ⚡ Fun Fact
-
-> "I believe consistency beats talent when talent doesn't work consistently."
-
-⭐ Thanks for visiting my profile!
